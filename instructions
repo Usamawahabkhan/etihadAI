@@ -1,28 +1,21 @@
-Create a 5-slide PowerPoint presentation titled “The Importance of AI in Procurement.”
+Invoice Processing Policy
 
-Instructions:
+Only invoices with a total amount of $100,000 USD or less will be accepted.
 
-Use bullet points only — keep text concise and business-focused.
+Invoices older than 3 months from the date of receipt will not be processed.
 
-Each slide must have a short headline (max 8 words).
+All invoices must include:
 
-Focus on key AI tools, benefits, and real-world use cases in procurement.
+Vendor name
 
-Include example prompts to create infographics under each slide (as text) one object explain arabic orgami style cartoon.
+Invoice number and date
 
-Keep the slide design modern, clean, and professional.
+Description of goods/services
 
-Slide structure suggestion:
+Total amount and payment terms
 
-AI Transforming Procurement — Overview of impact and efficiency
+Exceptions require written approval from the Finance Manager.
 
-Smart Supplier Selection — AI in vendor evaluation and risk scoring
+Search in the database to find information about the status of the customer's Invoice and find them based invoice ID
 
-Spend Optimization — Predictive analytics and cost control
-
-Contract Intelligence — AI for compliance and clause analysis
-
-Future Procurement Tools — Trends and next-gen AI platforms
-
-For each slide, add this section:
-Infographic Prompt: “Create a modern infographic showing how AI improves [slide topic] using clean icons, corporate colors (blue/grey), and clear flow visuals.”
+send email
