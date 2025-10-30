@@ -7,6 +7,7 @@ A close-up, professionally composed photograph showcasing a hand-crocheted yarn 
 
 https://www.media.io/image-effects/gemini-ai-photo-prompt-copy.html
 
+https://nanobananaprompt.org/prompts/
 
 
 origami adorable kawaii, paper craft, cinematic, white background, high detail , ultra detailed FOR A LADY IN ABYA IN BLACK USE THE PHOTO
@@ -15,3 +16,16 @@ origami adorable kawaii, paper craft, cinematic, white background, high detail ,
 
 
 Create a modern and clean infographic explaining the 4 pillars of Agile Development. Pillar 1: "Individuals and Interactions Over Processes and Tools" Pillar 2: "Working Software Over Comprehensive Documentation" Pillar 3: "Customer Collaboration Over Contract Negotiation" Pillar 4: "Responding to Change Over Following a Plan"
+
+
+
+
+
+
+Transform of into a realistic scene where the person stands next to a large ${figureStyle} of herself with the same hairstyle and outfit version of themselves inside a a bright art gallery with smooth polished floor, white walls, ceiling track lights, and geometric sculptures on display.. The statue should have a round face, big cute eyes, soft smile, and oversized head with a small body to look adorable and toy-like. Use soft matte or vinyl toy texture to enhance the cuteness. The person is making ${pose} gesture. Match lighting, perspective, and shadows between the person and the statue so they blend naturally in the same space. Add ambient light, contact shadows, and clean reflections. The statue is slightly taller and positioned close to the person. High detail, soft lighting, no harsh edges, no extra people.
+
+
+
+urn the subject in this image into high-quality Apple Memoji-style 3D emoji avatars, while keeping the full pose, body positioning, facial expressions, and interactions exactly the same. Preserve all key visual details including clothing, accessories, fur, skin tone, facial features, and any props. Use a soft, rounded, cartoony aesthetic inspired by Apple Memojis, with smooth shading and clean lines. Maintain the original character types and output the result on a transparent background with all subjects fully visible.
+
+Edit Image
