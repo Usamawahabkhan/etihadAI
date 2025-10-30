@@ -28,4 +28,11 @@ Transform of into a realistic scene where the person stands next to a large ${fi
 
 urn the subject in this image into high-quality Apple Memoji-style 3D emoji avatars, while keeping the full pose, body positioning, facial expressions, and interactions exactly the same. Preserve all key visual details including clothing, accessories, fur, skin tone, facial features, and any props. Use a soft, rounded, cartoony aesthetic inspired by Apple Memojis, with smooth shading and clean lines. Maintain the original character types and output the result on a transparent background with all subjects fully visible.
 
+
+
+
+ONLY FOR pOWER pOINT
+
+Create a modern and clean infographic explaining the 4 pillars of Agile Development. Pillar 1: "Individuals and Interactions Over Processes and Tools" Pillar 2: "Working Software Over Comprehensive Documentation" Pillar 3: "Customer Collaboration Over Contract Negotiation" Pillar 4: "Responding to Change Over Following a Plan"
+
 Edit Image
