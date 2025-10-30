@@ -8,7 +8,7 @@ Each slide must have a short headline (max 8 words).
 
 Focus on key AI tools, benefits, and real-world use cases in procurement.
 
-Include example prompts to create infographics under each slide (as text) one object to explain Arabic origami style cartoon.
+Include example prompts to create infographics under each slide (as text) one object to explain the Arabic origami style cartoon  illustration of content .
 
 Keep the slide design modern, clean, and professional.
 
@@ -25,7 +25,7 @@ Contract Intelligence — AI for compliance and clause analysis
 Future Procurement Tools — Trends and next-gen AI platforms
 
 For each slide, add this section:
-Infographic Prompt: “Create a modern infographic showing how AI improves [slide topic] using clean icons, corporate colors (blue/grey), and clear flow visuals.”
+Infographic Prompt: “Create a modern infographic showing how AI improves [slide topic] using clean icons, origami, adorable kawaii, paper craft, cinematic, white background, high detail, ultra detailed, Arab characters, and clear flow visuals.”
 
 
 
