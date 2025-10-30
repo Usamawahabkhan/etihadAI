@@ -1,0 +1,209 @@
+Create a 5-slide PowerPoint presentation titled “The Importance of AI in Procurement.”
+
+Instructions:
+
+Use bullet points only — keep text concise and business-focused.
+
+Each slide must have a short headline (max 8 words).
+
+Focus on key AI tools, benefits, and real-world use cases in procurement.
+
+Include example prompts to create infographics under each slide (as text) one object to explain Arabic origami style cartoon.
+
+Keep the slide design modern, clean, and professional.
+
+Slide structure suggestion:
+
+AI Transforming Procurement — Overview of impact and efficiency
+
+Smart Supplier Selection — AI in vendor evaluation and risk scoring
+
+Spend Optimization — Predictive analytics and cost control
+
+Contract Intelligence — AI for compliance and clause analysis
+
+Future Procurement Tools — Trends and next-gen AI platforms
+
+For each slide, add this section:
+Infographic Prompt: “Create a modern infographic showing how AI improves [slide topic] using clean icons, corporate colors (blue/grey), and clear flow visuals.”
+
+
+
+
+
+
+tinyurl.com/etihadai
+
+
+
+
+
+
+
+
+
+
+
+Write the email targeted to [IDEAL CUSTOMER PERSONA DETAILS].”
+
+
+
+
+Please write copy options for each of the following elements of a “welcome email” for [BRAND] email marketing. 
+
+Email subject line: Attention-grabbing, 60 characters or less
+
+Six email header options: 1-6 words 
+
+Email body: Thank the recipient for signing up to receive emails. Highlight a couple of [BRAND’S] key value propositions. Encourage customers to take advantage of [WELCOME OFFER].
+
+Notes on tone: Write this from the perspective of [BRAND]. Brand voice should be warm and knowledgeable. Do not use exclamation points in the copy. 
+
+
+
+
+reat news. [BRAND] is hosting [EVENT]. We want our audience to know about it, get excited, sign up to attend, and actually attend the event. You are going to write emails that make that happen. 
+
+For each email, provide the following:
+
+Email subject line: Attention-grabbing, 60 characters or less
+
+Email header options: This is the headline of the email. Make it spicy.
+
+Email body: Create email body text following marketing best practices for each event email type. The name of the event is [EVENT]. It’s at [TIME] on [DATE] at [INCLUDE NOTES ON DIGITAL OR PHYSICAL ADDRESS].
+
+CTA Button copy: Drive event registration.
+
+Notes on tone: No exclamation points
+
+Do this for each email:
+
+Event Announcement
+
+Early Bird Registration Reminder
+
+Event Reminder - Two Weeks Before
+
+Event Reminder - One Week Before
+
+Event Reminder - Day Before
+
+Event Reminder - Hour Of
+
+Event Thank You (Thank You to Attendees)
+
+
+
+Woohoo. We landed a sale. Write a product confirmation email letting an existing customer know that we received their confirmation. Let them know that they will receive another email when their product ships. 
+
+Email subject line: Attention-grabbing, 60 characters or less
+
+Email header options: This is the headline of the email. Make it conversational. 
+
+Email body: This email should be short and clear. 
+
+CTA Button copy: Drive sales.
+
+Notes on tone: Make it appreciative. No exclamation points
+
+
+
+Prompt: "Create an engaging and informative email that provides valuable tips and resources related to [your product or service]. The goal is to educate users and enhance their experience, encouraging them to explore more.”
+
+
+
+
+Act as a project manager. My team has missed three consecutive deadlines due to lack of coordination. Suggest a structured workflow to improve execution and accountability."
+
+"A team member is consistently late to meetings, disrupting the workflow. Draft a professional yet firm way to address this issue in a private conversation."
+
+"Act as a communication expert. I need to announce a last-minute, high-priority project without overwhelming my already busy team. Draft an email that conveys urgency while keeping morale up."
+
+"Act as an operations manager. My team is overloaded with work and constantly firefighting. Suggest a structured plan to balance workload and prevent burnout."
+
+"Act as a leadership coach. A previously high-performing team is now disengaged and missing deadlines. Draft a plan to diagnose the root cause and re-energize the team."
+
+"Analyze the reasons why my team seems demotivated after a major project failure. Provide three strategies to rebuild confidence and momentum."
+
+"Act as an executive coach. Draft a message I can send to my team to refocus their attention on our top three priorities for this quarter."
+
+"Act as a professional mediator. I need to give negative feedback to a defensive employee. Draft a structured approach that minimizes resistance and leads to constructive action."
+
+"Act as a conflict resolution expert. Two colleagues on my team keep blaming each other for project delays. How should I mediate the conversation?"
+
+"A colleague keeps interrupting me in meetings, making it difficult to contribute. What’s the best way to professionally address this without creating conflict?"
+
+"Act as a career coach. My boss constantly changes priorities, making it hard to stay productive. Draft a way to request clearer expectations without sounding frustrated."
+
+"Act as a leadership consultant. I need to resolve ongoing tension between two employees who refuse to collaborate. What’s the best way to structure a resolution meeting?"
+
+I have a high-conflict personality on my team who often argues over small details. How can I guide discussions to keep conversations productive and focused?"
+
+"Act as a leadership strategist. My team frequently derails meetings with side discussions. Suggest a structured approach to keep meetings focused and productive."
+
+
+
+
+
+Prompt: Please draft an email requesting my manager or colleague for the information to complete the task, which is a blocker for you.
+
+
+Prompt: Compose an email informing about the project status. Please include these tasks, milestones, and challenges you have encountered while doing the project. 
+
+
+Prompt: Here is the email I composed. Can you summarize this email into bulleted points, keeping essential points in it? 
+
+
+
+Prompt: Write an email and attach the invoice with the amount to be paid for the services availed and remind the clients of the due date for the payment. 
+
+
+
+Prompt: I’m planning to develop an AI marketing tool aimed at producing quality content and saving them time on tasks. The tool will cater to marketing managers who do not have the budget to hire copywriters. Help me conceptualize this project.
+
+
+#8: Preparing for customer interviews
+AI can help you prepare for different kinds of interviews - from job interviews to customer interviews.
+
+I used artificial intelligence to suggest interview questions for my ideal target audience to
+
+Validate my product ideas.
+Build a list of priority features.
+Identify their pain points.
+Prompt: I’m developing a SaaS product for team collaboration while using ChatGPT. We are planning a customer interviews sprint where we’ll aim to interview 10-15 power users of our product to understand how they use it, why they like it, their needs, use cases, and success stories. I want you to help me structure the interview and formulate the interview questions.
+
+
+
+1.“Generate a script for a 30-second commercial promoting our new product”
+2.“Write a persuasive email to convince potential customers to try our service”
+3.“Create a list of frequently asked questions for our customer service team”4.“Generate a summary of our company’s mission and values”
+5.“Write a script for a training video on how to use our software”6.“Create a list of potential blog post ideas for our company’s website”
+7.“Generate a press release announcing our company’s latest partnership”8.“Write a script for a video testimonial from a satisfied customer”
+9.“Create a list of keywords to optimize our website for search engines”10.“Generate a script for a social media video showcasing our company culture”
+11.“Write a script for an explainer video about our new product”12.“Create a list of potential influencers to collaborate with for social media campaigns”
+13.“Generate a script for a podcast episode discussing industry trends”14.“Write a script for a webinar on best practices for using our product”
+15.“Create a list of potential case studies to showcase our company’s success”16.“Generate a script for a short video on our company’s history and achievements”
+17.“Write a script for a virtual event to launch our new product”18.“Create a list of potential topics for a company newsletter”19.“Generate a script for a TV commercial to increase brand awareness”
+20.“Write a script for an explainer video about our company’s sustainability efforts”
+21.“Can you think of new business ideas without money?”
+22.“Write a persuasive email to increase attendance at our upcoming event”
+23.“Create a follow-up email to send to potential clients after a meeting”2
+4.“Generate a thank-you email to send to customers after a purchase”
+25.“Write a promotional email to introduce our new product or service”
+26.“Create a reminder email for an upcoming deadline or meeting”
+27.“Generate a professional email to request a meeting or consultation”
+28.“Write an apology email to a customer for a delay or mistake”
+29.“Create a personalized email to nurture a lead and move them closer to a sale”
+30.“Generate an email to request a referral or testimonial from a satisfied customer”
+31.“Write a promotional email to announce a sale or special offer”
+32.“Create an email to send to a prospect who has shown interest in our product”
+33.“Generate an email to request feedback from customers on our product or service”
+34.“Write an email to send to a customer who has unsubscribed from our mailing list”
+35.“Create an email to send to a potential partner to explore collaboration opportunities”
+36.“Generate an email to send to a customer with a personalized upselling or cross-selling suggestion”
+37.“Write a daily to-do list for the sales team using this data; [data]“
+38.“Generate a daily summary of customer feedback and testimonials”
+39.“Write a daily agenda for the executive team meeting”
+40.“Create a daily task list for the marketing team”
+
+
