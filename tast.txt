@@ -1,0 +1,111 @@
+### Task: Analyze CVs and Compare to Job Descriptions Using Prompt Engineering
+
+**Objective:**
+To create prompts that help analyze CVs and compare them to specific job descriptions to determine the best match.
+
+**Steps:**
+
+1. **Define Job Description Prompt:**
+   - Create a prompt to gather the details of the job description.
+     ```
+     Provide the following details for the job description:
+     - Job title
+     - Key responsibilities
+     - Required skills and qualifications
+     - Preferred experience
+     - Location
+     ```
+
+2. **Extract Key Information from CVs:**
+   - Develop a prompt to extract information from CVs.
+     ```
+     Extract the following information from the provided CV:
+     - Name
+     - Contact Information
+     - Professional Summary
+     - Work Experience (with details of roles and responsibilities)
+     - Education
+     - Skills
+     - Certifications
+     - Languages
+     ```
+
+3. **Create Analysis Criteria Prompt:**
+   - Design a prompt to create criteria for evaluating the CVs.
+     ```
+     Based on the job description, identify the following criteria for analyzing CVs:
+     - Relevance of work experience
+     - Alignment of skills and qualifications
+     - Presence of required certifications
+     - Language proficiency
+     - Location suitability
+     ```
+
+4. **Match CVs to Job Description Prompt:**
+   - Formulate a prompt to match the CV information to the job description criteria.
+     ```
+     Using the criteria developed, analyze the CV and determine how well it matches the job description. Assign a score or ranking based on the alignment of each criterion.
+     ```
+
+5. **Provide Feedback Prompt:**
+   - Create a prompt to generate feedback for each candidate.
+     ```
+     Based on the analysis, provide feedback for the candidate highlighting the strengths and areas for improvement in their CV in relation to the job description.
+     ```
+
+**Example Job Description Prompt:**
+
+```
+Provide the following details for the job description:
+- Job title: Senior Graphic Designer
+- Key responsibilities: Lead design projects from concept to completion, Collaborate with marketing teams, Develop brand guidelines, Manage junior designers
+- Required skills and qualifications: Proficient in Adobe Creative Suite, Experience in branding and identity design, Strong web and print design skills, Excellent typography skills, 5+ years of experience in graphic design
+- Preferred experience: Experience in a senior or lead designer role, UX/UI design experience
+- Location: Dubai, UAE
+```
+
+**Example Extract Key Information from CVs Prompt:**
+
+```
+Extract the following information from the provided CV:
+- Name: Shada Al-Rashid
+- Contact Information: +971 55 987 6543, shada.alrashid@example.com, Dubai, UAE
+- Professional Summary: Creative and detail-oriented graphic designer with over 7 years of experience in designing marketing materials, branding, and web design.
+- Work Experience: Senior Graphic Designer at Creative Studio (Mar 2018 - Present), Graphic Designer at Design Agency (Sep 2013 - Feb 2018), Freelance Graphic Designer (Jan 2012 - Aug 2013)
+- Education: Bachelor of Arts (BA) in Graphic Design, American University of Dubai (2009 - 2013)
+- Skills: Adobe Creative Suite, Branding & Identity, Web Design, Print Design, Typography, Creative Concept Development
+- Certifications: Adobe Certified Expert, UX Design Certification
+- Languages: English (Fluent), Arabic (Native)
+```
+
+**Example Create Analysis Criteria Prompt:**
+
+```
+Based on the job description, identify the following criteria for analyzing CVs:
+- Relevance of work experience
+- Alignment of skills and qualifications
+- Presence of required certifications
+- Language proficiency
+- Location suitability
+```
+
+**Example Match CVs to Job Description Prompt:**
+
+```
+Using the criteria developed, analyze the CV and determine how well it matches the job description. Assign a score or ranking based on the alignment of each criterion:
+- Relevance of work experience: High (Senior Graphic Designer role, Graphic Designer role, Freelance Graphic Designer)
+- Alignment of skills and qualifications: High (Proficient in Adobe Creative Suite, Experience in branding and identity design, Strong web and print design skills, Excellent typography skills)
+- Presence of required certifications: High (Adobe Certified Expert, UX Design Certification)
+- Language proficiency: High (English - Fluent, Arabic - Native)
+- Location suitability: High (Based in Dubai, UAE)
+```
+
+**Example Provide Feedback Prompt:**
+
+```
+Based on the analysis, provide feedback for the candidate highlighting the strengths and areas for improvement in their CV in relation to the job description:
+- Strengths: Shada has relevant work experience, necessary skills, and certifications. Her location in Dubai also makes her a suitable candidate.
+- Areas for Improvement: Ensure all project details and achievements are clearly highlighted to further strengthen the CV.
+```
+
+This structured approach will help you systematically evaluate CVs and determine the best fit for the job description using prompt engineering techniques.
