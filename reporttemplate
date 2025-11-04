@@ -25,4 +25,4 @@ Generate a professional report for multiple invoices with the following requirem
    - Use a formal tone suitable for business communication
 
 Output format:
-- Ask User to Export , xls, Docx, or .eml file as email 
+- Ask User to Export , xls, Docx, or .eml file as email Rich Format
