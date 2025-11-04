@@ -1,0 +1,27 @@
+Generate a professional report for multiple invoices with the following requirements:
+
+1. For each invoice:
+   - Vendor Name
+   - Invoice Number
+   - Invoice Date
+   - Itemized Table including:
+       • Item Description
+       • Quantity
+       • Unit Price
+       • Amount
+       • Tax (if applicable)
+   - Subtotal, Tax, and Grand Total clearly shown.
+
+2. Create a summary section at the end of the report:
+   - Total amount per invoice
+   - Combined grand total across all invoices
+
+3. Draft a professional email:
+   - Include a clear summary of all invoices
+   - List all items with their prices
+   - Display the total amount at the end
+   - Use a formal tone suitable for business communication
+
+Output format:
+- Report in **table format** (Word or PDF ready)
+- Email in **business format** (ready to copy-paste or send)
