@@ -1,3 +1,5 @@
+Act As an Expert Report Generator, Provide a Report with Requirements 
+
 Generate a professional report for multiple invoices with the following requirements:
 
 1. For each invoice:
@@ -23,5 +25,4 @@ Generate a professional report for multiple invoices with the following requirem
    - Use a formal tone suitable for business communication
 
 Output format:
-- Report in **table format** (Word or PDF ready)
-- Email in **business format** (ready to copy-paste or send)
+- Ask User to Export , xls, Docx, or .eml file as email 
