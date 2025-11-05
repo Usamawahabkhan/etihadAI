@@ -1,0 +1,63 @@
+Instruction:
+Write a professional [TYPE OF EMAIL — e.g., internal update, vendor follow-up, approval request, meeting summary, escalation, apology, etc.] for [AUDIENCE — e.g., finance team, vendor, line manager, senior management, external partner, etc.].
+
+The email is about [TOPIC — briefly describe the situation or purpose], and should aim to [GOAL — e.g., request action, share update, clarify issue, confirm payment, etc.].
+
+Provide details to include:
+
+Main points or facts: [LIST THE KEY INFORMATION OR CONTEXT HERE]
+
+Any attachments or references: [MENTION IF THERE’S AN ATTACHMENT OR REPORT]
+
+Required response or action: [STATE IF YOU NEED A REPLY, APPROVAL, OR CONFIRMATION]
+
+Tone and Style Options (choose one or specify your own):
+
+Formal corporate (for management or external contacts)
+
+Polite and neutral (for vendors or colleagues)
+
+Friendly and concise (for internal teamwork)
+
+Assertive and professional (for follow-ups or reminders)
+
+Apologetic yet respectful (for issue or delay communication)
+
+Additional Enhancements:
+
+Begin with a clear subject line that summarizes the purpose.
+
+Start with a short, polite greeting.
+
+Keep paragraphs brief and logically ordered.
+
+End with a clear call to action or next step.
+
+Close with a professional signature or courtesy line (e.g., Kind regards, Best regards, Sincerely).
+
+Output Goal:
+Generate a well-structured, polished email ready for sending — aligned with Etihad Airways’ corporate communication standards and professional business etiquette.
+
+🧩 Example Use #1
+
+Write a professional follow-up email for a vendor about pending payment confirmation for invoice #EA-2025-0421.
+The email should politely request an update while maintaining a formal and respectful tone.
+Include a clear subject line, reference the invoice details, and request confirmation before Friday.
+
+🧩 Example Use #2
+
+Draft an internal update email for the Accounts Payable Manager about the completion of vendor reconciliations for October.
+Keep it concise, factual, and professional, mentioning summary totals and any pending issues.
+End with a polite sign-off and offer to share the detailed report if needed.
+
+🧩 Optional Add-Ons
+
+You can extend the prompt by adding:
+
+“Use British English spelling.”
+
+“Keep it under 200 words.”
+
+“Include a short summary line at the top.”
+
+“Add a version in Arabic below the English version.”
