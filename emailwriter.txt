@@ -1,17 +1,53 @@
-Instruction:
-Write a professional [TYPE OF EMAIL — e.g., internal update, vendor follow-up, approval request, meeting summary, escalation, apology, etc.] for [AUDIENCE — e.g., finance team, vendor, line manager, senior management, external partner, etc.].
+Instruction to Copilot:
+Guide me through creating a professional email by asking each question one at a time. After gathering all the details, generate a complete, well-written email ready for sending — clear, structured, and aligned with Etihad Airways’ corporate communication standards.
 
-The email is about [TOPIC — briefly describe the situation or purpose], and should aim to [GOAL — e.g., request action, share update, clarify issue, confirm payment, etc.].
+🧭 Step 1: Email Type
 
-Provide details to include:
+Ask:
 
-Main points or facts: [LIST THE KEY INFORMATION OR CONTEXT HERE]
+What type of email do you want to create? (e.g., internal update, vendor follow-up, approval request, meeting summary, escalation, apology, etc.)
 
-Any attachments or references: [MENTION IF THERE’S AN ATTACHMENT OR REPORT]
+👥 Step 2: Audience
 
-Required response or action: [STATE IF YOU NEED A REPLY, APPROVAL, OR CONFIRMATION]
+Ask:
 
-Tone and Style Options (choose one or specify your own):
+Who is the audience or recipient? (e.g., finance team, vendor, line manager, senior management, external partner, etc.)
+
+💬 Step 3: Topic or Purpose
+
+Ask:
+
+What is the email about? Please describe the situation or main topic briefly.
+
+🎯 Step 4: Goal or Objective
+
+Ask:
+
+What do you want to achieve with this email? (e.g., request action, share update, clarify issue, confirm payment, etc.)
+
+📋 Step 5: Key Details or Main Points
+
+Ask:
+
+What key information or facts should be included in the email? (List any important details, numbers, dates, or context.)
+
+📎 Step 6: Attachments or References
+
+Ask:
+
+Will you mention or attach any documents or reports? If yes, please specify their names or purpose.
+
+✅ Step 7: Required Response or Action
+
+Ask:
+
+Do you expect a reply, confirmation, or approval from the recipient? Please specify what action is required.
+
+✉️ Step 8: Tone and Style
+
+Ask:
+
+What tone should the email use? (Choose one or type your own)
 
 Formal corporate (for management or external contacts)
 
@@ -19,45 +55,49 @@ Polite and neutral (for vendors or colleagues)
 
 Friendly and concise (for internal teamwork)
 
-Assertive and professional (for follow-ups or reminders)
+Assertive and professional (for reminders or follow-ups)
 
 Apologetic yet respectful (for issue or delay communication)
 
-Additional Enhancements:
+🌟 Step 9: Optional Enhancements
 
-Begin with a clear subject line that summarizes the purpose.
+Ask (optional):
 
-Start with a short, polite greeting.
+Would you like to add any of the following enhancements?
 
-Keep paragraphs brief and logically ordered.
+Use British English spelling
 
-End with a clear call to action or next step.
+Keep it under 200 words
 
-Close with a professional signature or courtesy line (e.g., Kind regards, Best regards, Sincerely).
+Add a short summary line at the top
 
-Output Goal:
-Generate a well-structured, polished email ready for sending — aligned with Etihad Airways’ corporate communication standards and professional business etiquette.
+Include a version in Arabic below the English version
 
-🧩 Example Use #1
+✨ Step 10: Output Goal
 
-Write a professional follow-up email for a vendor about pending payment confirmation for invoice #EA-2025-0421.
-The email should politely request an update while maintaining a formal and respectful tone.
-Include a clear subject line, reference the invoice details, and request confirmation before Friday.
+Once all inputs are collected, Copilot should:
+✅ Create a well-structured, professional email including:
 
-🧩 Example Use #2
+A clear subject line summarizing the purpose
 
-Draft an internal update email for the Accounts Payable Manager about the completion of vendor reconciliations for October.
-Keep it concise, factual, and professional, mentioning summary totals and any pending issues.
-End with a polite sign-off and offer to share the detailed report if needed.
+A polite greeting
 
-🧩 Optional Add-Ons
+Brief, logically ordered paragraphs
 
-You can extend the prompt by adding:
+A clear call to action or next step
 
-“Use British English spelling.”
+A professional closing (e.g., Kind regards, Best regards, Sincerely)
 
-“Keep it under 200 words.”
+💡 Example Prompts to Start With
 
-“Include a short summary line at the top.”
+Example 1:
 
-“Add a version in Arabic below the English version.”
+Write a vendor follow-up email about pending payment confirmation for invoice #EA-2025-0421.
+Tone: Formal corporate.
+Goal: Request confirmation before Friday.
+
+Example 2:
+
+Draft an internal update email to the Accounts Payable Manager about vendor reconciliations completed for October.
+Tone: Polite and neutral.
+Include: Summary totals and pending issues.
