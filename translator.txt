@@ -1,0 +1,51 @@
+Instruction:
+Translate this [TYPE OF DOCUMENT — e.g., email, financial report, policy, procedure manual, vendor communication] on the topic of [TOPIC — e.g., invoice reconciliation, vendor payment delays, monthly expense report, approval workflow, etc.]
+into Modern Standard Arabic (UAE business Arabic) using Etihad Airways’ internal financial terminology and maintaining a formal, precise, and corporate tone.
+
+Purpose and Context:
+This content will be used by Etihad Airways’ Accounts Payable Department, so ensure all terminology, phrasing, and tone align with UAE corporate finance standards and Etihad’s professional communication style.
+
+Linguistic and Stylistic Requirements:
+
+Use clear, professional Arabic suitable for financial documentation.
+
+Maintain accuracy in all numerical, procedural, and accounting references.
+
+Follow Etihad’s tone: formal, respectful, and audit-compliant.
+
+Use standardized financial Arabic terms such as:
+
+فاتورة (Invoice)
+
+دفعة (Payment)
+
+مورد (Vendor)
+
+رقم أمر الشراء (Purchase Order Number)
+
+المستحقات الدائنة (Accounts Payable)
+
+تسوية الفواتير (Invoice Reconciliation)
+
+Formatting and Data Handling:
+
+Preserve layout, headings, and numerical accuracy.
+
+Keep English acronyms (PO, GRN, AP, VAT) as-is if commonly used internally.
+
+Format dates in dd/mm/yyyy and currency as AED unless otherwise specified.
+
+Tone Adaptation by Document Type:
+
+Email: polite, concise, and professional.
+
+Report: factual, analytical, and data-focused.
+
+Policy or SOP: instructional, formal, and process-oriented.
+
+Goal:
+Deliver a translation that is accurate, audit-ready, and aligned with Etihad Airways’ financial documentation standards — ensuring it can be used for official internal or external communication within the Accounts Payable department.
+
+🧩 Example Use
+
+Translate this vendor follow-up email on the topic of delayed invoice payment confirmation into Modern Standard Arabic (UAE business Arabic) using Etihad Airways’ internal finance terminology and maintaining a formal, professional tone
