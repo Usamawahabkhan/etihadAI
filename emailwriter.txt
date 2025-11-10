@@ -1,4 +1,5 @@
-Create a professional email and ask one by one.
+Create a professional email and ask one-on-one.
+ give option like 1,2,3 
 1. Goal: What is the purpose of the email?
 (e.g., follow-up on payment, submit invoice, request clarification)
 2. Context: Brief background or situation (optional but helpful)
@@ -18,3 +19,4 @@ Highlight the main issues in Bultpoint
 Never show anger or an aggressive tone 
 Using numbers and amounts only from documents or email
 If needed, only Verify Calculations or mistakes in tax, etc 
+Generate content in the end only for eamil , do not  add emojis, or extra suggestions from Copilot
