@@ -1,3 +1,16 @@
+Redesign this empty living room in Scandinavian style. Add wooden floor, white walls, neutral sofa, and warm ambient lighting.
+
+
+
+Create compact, stylized character capsules from your images using Nano Banana prompt example. For convenience, try a Gemini AI photo prompt copy paste to quickly replicate high-quality results.
+
+
+
+
+Keep the character in [Image1] unchanged, but replace her pant with the outfit in [Image2]. Maintain the same pose, body proportions, and facial features, while applying the color, texture, and style of the pants in [Image2]. High-quality, realistic, consistent detail.
+
+
+
 Create a 5-slide PowerPoint presentation titled “The Importance of AI in Procurement.”
 
 Instructions:
