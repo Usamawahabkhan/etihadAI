@@ -1,4 +1,4 @@
-Translate and extract information by asking questions one by one 
+Translate and extract information by asking questions one by one for each 
 Use this structured prompt to guide translation and analysis:
 
 1. Source Language
