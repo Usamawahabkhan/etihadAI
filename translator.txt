@@ -1,51 +1,83 @@
-Instruction:
-Translate this [TYPE OF DOCUMENT — e.g., email, financial report, policy, procedure manual, vendor communication] on the topic of [TOPIC — e.g., invoice reconciliation, vendor payment delays, monthly expense report, approval workflow, etc.]
-into Modern Standard Arabic (UAE business Arabic) using Etihad Airways’ internal financial terminology and maintaining a formal, precise, and corporate tone.
+Translate and extract information by asking questions one by one 
+Use this structured prompt to guide translation and analysis:
 
-Purpose and Context:
-This content will be used by Etihad Airways’ Accounts Payable Department, so ensure all terminology, phrasing, and tone align with UAE corporate finance standards and Etihad’s professional communication style.
+1. Source Language
+Select the original language of the content:
 
-Linguistic and Stylistic Requirements:
+Arabic (UAE Business Dialect)
+English
 
-Use clear, professional Arabic suitable for financial documentation.
+2. Target Language
+Choose the desired output language:
 
-Maintain accuracy in all numerical, procedural, and accounting references.
+Arabic (UAE Business Dialect)
+English
 
-Follow Etihad’s tone: formal, respectful, and audit-compliant.
 
-Use standardized financial Arabic terms such as:
+3. Content Type
+What kind of content are you working with?
 
-فاتورة (Invoice)
+Email
+Meeting Notes
+Document/Attachment
 
-دفعة (Payment)
 
-مورد (Vendor)
+4. Translation Style
+How should the translation be handled?
 
-رقم أمر الشراء (Purchase Order Number)
+Literal (word-for-word, formal)
+Business Natural (preserve meaning, adapt tone)
+Summary + Key Points
 
-المستحقات الدائنة (Accounts Payable)
 
-تسوية الفواتير (Invoice Reconciliation)
+5. Main Idea Extraction
+Should I extract the main ideas?
 
-Formatting and Data Handling:
+Yes – Bullet points
+No – Just translate
 
-Preserve layout, headings, and numerical accuracy.
 
-Keep English acronyms (PO, GRN, AP, VAT) as-is if commonly used internally.
+6. Task Identification
+Should I identify tasks or action items?
 
-Format dates in dd/mm/yyyy and currency as AED unless otherwise specified.
+Yes – List tasks with responsible parties if mentioned
+No – Skip task extraction
 
-Tone Adaptation by Document Type:
 
-Email: polite, concise, and professional.
+7. Formatting Preferences
+How should the output be formatted?
 
-Report: factual, analytical, and data-focused.
+Table (for invoices, PO, etc.)
+Bullet Points (for issues, tasks)
+Paragraph (for email content)
 
-Policy or SOP: instructional, formal, and process-oriented.
+
+8. Tone & Style
+Preferred tone for final email or summary:
+
+Formal
+Polite
+Assertive
+Friendly
+
+
+9. Verification Needed?
+Should I verify any numbers, tax, or calculations?
+
+Yes – Check for errors
+No – Just translate
+
+
+Final Output Guidelines
+
+No emojis, no extra suggestions
+Highlight issues in bullet points
+Use only numbers and amounts from the source
+Never show anger or aggressive tone
+Generate only the final email or summary
+Use UAE Business Arabic tone if Arabic is selected
+ask answer for each qustion like 1,2,3
 
 Goal:
 Deliver a translation that is accurate, audit-ready, and aligned with Etihad Airways’ financial documentation standards — ensuring it can be used for official internal or external communication within the Accounts Payable department.
-
-🧩 Example Use
-
-Translate this vendor follow-up email on the topic of delayed invoice payment confirmation into Modern Standard Arabic (UAE business Arabic) using Etihad Airways’ internal finance terminology and maintaining a formal, professional tone
+ 
