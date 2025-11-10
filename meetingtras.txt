@@ -1,0 +1,143 @@
+Microsoft Teams Meeting Transcript – Digital Transformation Project Review
+
+Date: 10 November 2025
+Time: 10:00 AM – 11:00 AM (Gulf Standard Time)
+Platform: Microsoft Teams
+Organizer: Ahmed Al Mansoori (Project Manager)
+Attendees:
+
+Ahmed Al Mansoori – Project Manager
+
+Fatima Al Suwaidi – Business Analyst
+
+Usama Khan – IT Specialist
+
+Sarah Johnson – HR Representative
+
+Omar Hassan – Communications Officer
+
+🔹 English Transcript
+
+[10:00 AM – Meeting Starts]
+Ahmed: Good morning, everyone. Can you all hear me clearly?
+
+Fatima: Yes, loud and clear.
+
+Usama: Same here, good morning.
+
+Sarah: Good morning, everyone!
+
+Ahmed: Great. Thanks for joining on time. I’ll start recording the meeting for documentation purposes. [Recording started]
+
+[10:02 AM]
+Ahmed: Today’s agenda covers three main items:
+
+Employee Portal Progress
+
+HR Communication Plan
+
+Next Week’s Rollout Preparation
+
+Fatima, could you please share your screen and walk us through the current project dashboard?
+
+Fatima: Sure, just a moment. [Shares screen] Okay, here you can see the project tracker — we’re at 85% completion. The testing phase for the employee portal was completed last Thursday, and feedback from 40 pilot users was generally positive.
+
+Ahmed: Excellent. Any critical issues raised?
+
+Fatima: Only one — users reported a 4–5 second delay during login peak hours.
+
+Usama: Right, we’ve already identified the cause. The load balancer settings weren’t optimized. We’re increasing server capacity and deploying a caching layer. It’ll be fixed by Thursday evening.
+
+Ahmed: Perfect. Please make sure that’s tested again before Monday.
+
+[10:20 AM]
+Sarah: On the HR side, we’ve finalized the awareness campaign content — posters, internal emails, and a short explainer video. Once IT confirms the final deployment date, we’ll schedule training sessions.
+
+Ahmed: Good job, Sarah. Please coordinate with Omar to make sure the communication visuals follow the corporate branding guidelines.
+
+Omar: Will do. I’ll also prepare a short teaser post for the intranet.
+
+[10:35 AM]
+Ahmed: Let’s quickly check on risks and dependencies. Any blockers?
+
+Fatima: No blockers from my end.
+
+Usama: Only pending item is the new security policy approval from the compliance team. Expected by tomorrow.
+
+Ahmed: Okay, noted.
+
+[10:50 AM]
+Ahmed: Before we wrap up — let’s confirm next steps:
+
+Usama: Fix login delay and confirm testing by Thursday.
+
+Fatima: Update project tracker and share summary report by Friday.
+
+Sarah & Omar: Finalize communication materials and schedule training by Monday.
+
+Sarah: Got it.
+
+Ahmed: Great. Thank you, everyone. We’re on track for the November 20 launch. Meeting adjourned. [Recording stopped]
+
+🔹 النسخة العربية
+
+[10:00 صباحاً – بدء الاجتماع]
+أحمد: صباح الخير جميعاً، هل الصوت واضح؟
+
+فاطمة: نعم، واضح تماماً.
+
+أسامة: نعم، صباح الخير.
+
+سارة: صباح النور جميعاً!
+
+أحمد: رائع. شكراً لانضمامكم في الوقت المحدد. سأبدأ تسجيل الاجتماع لأغراض التوثيق. [تم بدء التسجيل]
+
+[10:02 صباحاً]
+أحمد: جدول الاجتماع اليوم يشمل ثلاث نقاط رئيسية:
+
+التقدم في بوابة الموظفين
+
+خطة التواصل من قسم الموارد البشرية
+
+التحضيرات للإطلاق الأسبوع القادم
+
+فاطمة، هل يمكنكِ مشاركة الشاشة وعرض لوحة متابعة المشروع؟
+
+فاطمة: بالتأكيد، لحظة فقط. [تشارك الشاشة] كما ترون هنا، نسبة الإنجاز 85٪. انتهينا من مرحلة الاختبار يوم الخميس الماضي، وكانت الملاحظات من 40 مستخدماً تجريبياً إيجابية بشكل عام.
+
+أحمد: ممتاز. هل هناك مشكلات حرجة؟
+
+فاطمة: فقط تأخير بسيط أثناء تسجيل الدخول في أوقات الذروة.
+
+أسامة: نعم، تم تحديد السبب. إعدادات موازنة التحميل لم تكن مثالية. نعمل الآن على زيادة سعة الخوادم وتفعيل التخزين المؤقت. سيتم الحل بحلول مساء الخميس.
+
+أحمد: جيد جداً. تأكدوا من اختبارها مرة أخرى قبل يوم الإثنين.
+
+[10:20 صباحاً]
+سارة: من جانب الموارد البشرية، أنهينا محتوى الحملة التوعوية — الملصقات، الرسائل الداخلية، وفيديو تعريفي قصير. بمجرد أن يؤكد قسم تقنية المعلومات موعد الإطلاق النهائي، سنحدد جلسات التدريب.
+
+أحمد: عمل ممتاز يا سارة. تواصلي مع عمر للتأكد من أن التصاميم تتماشى مع هوية الشركة.
+
+عمر: حاضر، وسأجهز أيضاً منشوراً قصيراً على الإنترانت للتشويق.
+
+[10:35 صباحاً]
+أحمد: نراجع الآن المخاطر أو العوائق. هل هناك أي شيء؟
+
+فاطمة: لا يوجد من جانبي.
+
+أسامة: فقط ننتظر موافقة فريق الامتثال على سياسة الأمان الجديدة، والمتوقع صدورها غداً.
+
+أحمد: تم، ملاحظة جيدة.
+
+[10:50 صباحاً]
+أحمد: قبل أن ننهي الاجتماع، نؤكد المهام القادمة:
+
+أسامة: حل مشكلة تسجيل الدخول وإجراء اختبار نهائي بحلول الخميس.
+
+فاطمة: تحديث لوحة المشروع وإرسال التقرير يوم الجمعة.
+
+سارة وعمر: إنهاء مواد التواصل وجدولة التدريب يوم الإثنين.
+
+سارة: تم.
+
+أحمد: ممتاز. شكراً للجميع. نحن على المسار الصحيح لإطلاق المشروع في 20 نوفمبر. [تم إيقاف التسجيل]
