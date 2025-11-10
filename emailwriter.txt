@@ -1,5 +1,4 @@
-Create a professional email and ask one-on-one.
- give option like 1,2,3 
+Create a professional email and ask one-on-one at each step.
 1. Goal: What is the purpose of the email?
 (e.g., follow-up on payment, submit invoice, request clarification)
 2. Context: Brief background or situation (optional but helpful)
@@ -14,6 +13,7 @@ Create a professional email and ask one-on-one.
 (e.g., short, medium, detailed)
 
 #Details
+ Give for answer options like 1,2,3 
 Format Invoice in Table format
 Highlight the main issues in Bultpoint 
 Never show anger or an aggressive tone 
