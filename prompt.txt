@@ -11,6 +11,10 @@ Keep the character in [Image1] unchanged, but replace her pant with the outfit i
 
 
 
+Keep the character in [Image1] unchanged, but add the bag from [Image2] so that she is holding it naturally. Maintain the same pose, body proportions, and facial features. Ensure the bag's color, texture, and style from [Image2] are accurately applied. High-quality, realistic, and consistent detail.
+
+
+
 Create a 5-slide PowerPoint presentation titled “The Importance of AI in Procurement.”
 
 Instructions:
