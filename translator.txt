@@ -66,143 +66,59 @@ Goal:
 Deliver a translation that is accurate, audit-ready, and aligned with Etihad Airways’ financial documentation standards — ensuring it can be used for official internal or external communication within the Accounts Payable department.
  
 examples 
+|  # | Emirati Word | Transliteration    | English Meaning / Usage              |
+| -: | ------------ | ------------------ | ------------------------------------ |
+|  1 | زين          | *zayn*             | Good / Fine                          |
+|  2 | أبا          | *abaa*             | I want                               |
+|  3 | ما أبا       | *ma abaa*          | I don’t want                         |
+|  4 | الحين        | *il-ḥeen*          | Now                                  |
+|  5 | شوي          | *shway*            | A little                             |
+|  6 | وايد         | *wayed*            | A lot / Very                         |
+|  7 | هيه          | *heh*              | Yes                                  |
+|  8 | لا           | *la*               | No                                   |
+|  9 | ليش          | *leish*            | Why                                  |
+| 10 | شو           | *shoo*             | What                                 |
+| 11 | وين          | *ween*             | Where                                |
+| 12 | متى          | *mataa*            | When                                 |
+| 13 | كيفك؟        | *keefak / keefich* | How are you? (m/f)                   |
+| 14 | تمام         | *tamaam*           | Fine / Okay                          |
+| 15 | إن شاء الله  | *insha’Allah*      | God willing                          |
+| 16 | ما شاء الله  | *masha’Allah*      | What God has willed (used to praise) |
+| 17 | الله يحفظك   | *Allah yḥafthak*   | God protect you                      |
+| 18 | حياك الله    | *ḥayyaak Allah*    | Welcome                              |
+| 19 | تسلم         | *tislam*           | Thank you / Bless you                |
+| 20 | العفو        | *al-ʿafw*          | You’re welcome                       |
+| 21 | يلا          | *yalla*            | Let’s go / Come on                   |
+| 22 | خلاص         | *khalas*           | Enough / Done / Stop                 |
+| 23 | أوكي         | *okay*             | Okay (used commonly)                 |
+| 24 | ريال         | *rayyal*           | Man                                  |
+| 25 | حرمة         | *ḥurma*            | Woman / wife                         |
+| 26 | يهال         | *yahāl*            | Children                             |
+| 27 | بيت          | *bait*             | House                                |
+| 28 | شغل          | *shoghl*           | Work / Job                           |
+| 29 | مكتب         | *maktab*           | Office                               |
+| 30 | دوامي        | *dawami*           | My work shift                        |
+| 31 | طرّش         | *ṭarrish*          | Send (as in send me)                 |
+| 32 | كاشخ         | *kashkh*           | Fancy / Well-dressed                 |
+| 33 | شغّال        | *shaghghaal*       | Working (machine or system)          |
+| 34 | مريّح        | *mrayyiḥ*          | Relaxed / Comfortable                |
+| 35 | خلك          | *khallik*          | Stay / Keep yourself                 |
+| 36 | تعال         | *taʿaal*           | Come                                 |
+| 37 | روح          | *rooh*             | Go                                   |
+| 38 | هناك         | *hināk*            | There                                |
+| 39 | هني          | *hnee*             | Here                                 |
+| 40 | عدنا         | *ʿadna*            | We have                              |
+| 41 | ماشي         | *maashi*           | Nothing / Okay                       |
+| 42 | دوبي         | *doobi*            | Just now                             |
+| 43 | صوب          | *ṣoob*             | Toward / Side / Direction            |
+| 44 | برع          | *barraʿ*           | Outside                              |
+| 45 | داخل         | *daakhil*          | Inside                               |
+| 46 | البرّ        | *al-barr*          | The desert / outdoors                |
+| 47 | دوّام        | *dawaam*           | Work hours / Duty                    |
+| 48 | خبير         | *khabeer*          | Expert                               |
+| 49 | زحمة         | *zaḥma*            | Traffic / Crowd                      |
+| 50 | فديتك        | *fadeetak*         | I adore you / affectionate thank you |
 
-تقبلوا فائق الإحترام و التقدير
-taqabalou waafir al-iHtiraam wa al-taqdeer
-Accept an abundance of respect and appreciation.
-
-شاكرين لكم على حسن تعاونكم
-shaakareen lakum hasan ta3aawunikum
-Grateful for your good co-operation
-
-
-مع خالص التقدير و الاحترام
-ma3 khalis al-taqdeer wa al-iHtiraam
-With sincere appreciation and respect
-
-مع جزيل الشكر و التقدير
-ma3 jazeel ash-shukr wa al-taqdeer
-With great thanks and appreciation
-
-“عزيزي/عزيزتي” (Dear)
-“أرجو أن تكون بخير” (I hope you are well)</li><li>”في انتظار ردك” (Looking forward to your response)
-“مع أطيب التحيات” (Best regards)
-
-	Words in English	Meaning
-شو اليديد؟
-Shu el-ydeed?
-What’s new?
-ما شيَ
-Ma-shay
-Nothing
-هيه
-Heh
-Yes
-وايد
-Wayed
-A lot or very
-طرش
-Tarrish
-Send
-أونه
-Awina
-As if
-جي
-Chee
-Like this
-خيبة
-Khaiba
-Oh my!
-كيف حالك؟/
-Kaif Halak?
-How are you?
-زين
-Zayn
-I’m okay
-أبا
-Abaa
-I want
-الحين
-ilHeen
-Now
-جهال
-yahal
-Kids (j is pronounced y)
-رمسة
-Ramsa
-Chat or conversation
-باشر
-Bacher
-Tomorrow
-ليت
-Late
-Light
-البرّ
-El barr
-Inviting someone on a trip to the desert
-ضو
-Dhaw
-Fire
-عيل
-El
-What
-ميهود
-Mayhood
-Sick or ill
-اتريّا
-Etrayya
-Waiting
-غرشة
-Gharsha
-Bottle or water bottle
-شيشة
-Shisha
-Petrol station
-منظرة
-Manthara
-Mirror
-خاز
-Khaz
-Disappeared or gone
-ربيع
-Rabee
-Friend
-مرحبا الساعة
-Marhaba el-saa
-Welcome at this hour
-سلام⁩
-Salaam
-Salutation or greetings
-مافي مشكلة
-Maafi Mushki
-No problem
-أنا لا أفهم
-Ana la ‘afham
-I don’t understand
-غرشوب
-Gharshob
-Beautiful
-العزبة
-Al-Ezbah
-Farm
-تريّا
-Tarayā
-Be patient
-
-
-Haamuur; ma ydkhil wala ykhalli ‘is-semach ydkhiluun
-
-Translation: A hamour; he neither enters nor allows other fish to come in.
-Meaning: The Hamour fish lives in the ocean near the Gulf countries. It’s a big fish that likes to hang out near special traps people use to catch smaller fish. The Hamour might be looking for a snack, but it also scares the little fish away from the trap! This way, the Hamour can catch them later for an easy meal.
-Nyuum ‘is-sema ‘agreb lek
-
-Translation: The stars in heaven are closer to you
-Meaning: This saying is a funny way to tell someone ‘No way!’ when they ask for something impossible. It’s like saying, ‘Forget it! You have a better chance of grabbing a star out of the sky than getting what you want from me!’
-Maddaah nafsah ybaalah rafsah
-
-Translation: He who praises himself deserves a kick
-Meaning: This saying means that you shouldn’t talk about yourself too much or in a bragging manner. It’s better to let your actions speak for themselves!
-Halaat ith-thob rig’itah minnah w fiih
 
 Translation: A dress is beautiful when it is patched using its material
 Meaning: This proverb urges someone to marry a relative rather than a stranger. Also, it encourages two business parties to keep their business between them.
