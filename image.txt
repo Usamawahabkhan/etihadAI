@@ -36,3 +36,43 @@ ONLY FOR pOWER pOINT
 Create a modern and clean infographic explaining the 4 pillars of Agile Development. Pillar 1: "Individuals and Interactions Over Processes and Tools" Pillar 2: "Working Software Over Comprehensive Documentation" Pillar 3: "Customer Collaboration Over Contract Negotiation" Pillar 4: "Responding to Change Over Following a Plan"
 
 Edit Image
+
+
+
+
+
+
+
+Design a clean, origami-inspired infographic titled “📄 Invoice Processing Workflow” with a white background and soft pastel color accents. Use minimalist origami-style characters (vendor, accountant, approver, banker) and geometric shapes to represent each step. The layout should flow horizontally or vertically with directional arrows guiding the viewer through the process.
+
+Apply the following pastel color palette for a refined, premium aesthetic aligned with Etihad Airways branding:
+
+#CDB4DB (Lavender Blush) – Step titles and character accents
+
+#FFC8DD (Soft Pink) – Icons and highlights
+
+#FFAFCC (Warm Rose) – Arrows and connectors
+
+#BDE0FE (Sky Blue) – Background accents and text boxes
+
+#A2D2FF (Cool Blue) – Emphasis and callouts
+
+Each of the 8 steps should include a bold title, a relevant icon, and a short explanation:
+
+Invoice Receipt – Origami vendor sends invoice via email or EDI.
+
+Invoice Logging – Accountant enters invoice into system with dashboard icon.
+
+Invoice Verification – Character checks details with checklist and magnifying glass.
+
+Matching – PO and invoice icons aligned with stamps and arrows.
+
+Approval Workflow – Approver signs or stamps invoice digitally.
+
+Payment Processing – Banker initiates payment with credit card or bank icon.
+
+Recording in Ledger – Ledger book icon with data flow animation.
+
+Archiving and Audit Trail – Archive box and lock icon with secure storage visuals.
+
+Use clean typography, soft gradients, and subtle shadows to add depth. Ensure the overall design is elegant, readable, and culturally refined—suitable for Etihad Airways’ professional and international audience.
