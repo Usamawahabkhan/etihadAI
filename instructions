@@ -35,3 +35,17 @@ showing Due Date Vendor , Status and Amount. Show a pivot table based on these c
 
 give filters 
 create html file
+
+
+
+formatDateTime(utcNow(), 'yyyy-MM-dd')
+
+
+
+formatDateTime(
+        addDays(
+            addDays('1899-12-30', int(coalesce(items('For_each')?['Expiry Date'], 0))),
+            mul(-1, int(coalesce(items('For_each')?['Renewal Alert'], 0)))
+        ),
+        'yyyy-MM-dd'
+    )
